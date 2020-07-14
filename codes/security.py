@@ -1,5 +1,5 @@
 from werkzeug.security import safe_str_cmp
-from code.user import User
+from codes.models.user import User
 
 
 def authenticate(username, password):
