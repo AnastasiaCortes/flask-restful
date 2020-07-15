@@ -1,5 +1,4 @@
-import sqlite3
-from codes.db import db
+from db import db
 
 
 class User(db.Model):

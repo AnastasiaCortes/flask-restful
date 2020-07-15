@@ -2,3 +2,4 @@ Flask~=1.1.2
 flask-RESTful
 Flask-JWT
 Flask-SQLAlchemy
+uwsgi
